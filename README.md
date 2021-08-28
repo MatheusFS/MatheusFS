@@ -37,20 +37,17 @@
 
 ### Social
 <div>
-  <a href='#'>
+  <a target="_blank" href='https://www.linkedin.com/in/matheus-fs'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href='#'>
+  <a target="_blank" href='https://stackoverflow.com/users/10752706/matheus-ferreira'>
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
   <a href='#'>
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href='#'>
+  <a href='mailto:matheusfs97@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href='#'>
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 <!--
