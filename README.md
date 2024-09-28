@@ -1,7 +1,6 @@
 
 ### Github Stats & Most used languages
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusFS&show_icons=true&count_private=true&text_color=fff&bg_color=305,283048,859398&hide_title=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS&layout=compact&text_color=fff&bg_color=305,283048,859398&hide_title=true&langs_count=6" />
 </div>
 
