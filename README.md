@@ -1,9 +1,3 @@
-
-### Github Stats & Most used languages
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS&layout=compact&text_color=fff&bg_color=305,283048,859398&hide_title=true&langs_count=6" />
-</div>
-
 ### Tecnologies
 <div>
   <img title="Amazon Web Services (AWS)" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/amazonwebservices/amazonwebservices-original.svg">
